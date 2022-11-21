@@ -9,7 +9,6 @@
 /* and the commented-out line underneath it is the version for SAS in Windows. */  
 
 libname mydir '/home/u62241961/BUMK742/Project 1';
-*libname mydir 'C:\0jie\BUMK706\Assignments\Project1';
 
 data temp;            /* You can give any name for the temporary data file */
 set mydir.tropic;     /* load the SAS data file 'tropic.sas7bdat' */
