@@ -1,0 +1,6 @@
+●	Found out the most effective promotion among price cut, display and feature ad that increase consumers’ incentive to choose the product category (detergent) and the brand (Wisk, All, Tide, and Cheer) respectively, by training a binomial regression model (for category choice) and a multinomial logit model (for the 4 brands) and interpreting the parameter estimates in SAS.
+●	Explored the promotions’ effect on the quantity of sales assumed that the category and one of the brands were chosen by building and interpreting a linear regression model in SAS.
+●	Explored whether consumers’ previous buying habits affect their future decision and evaluated the effect of previous promotions on the choice of category and brand.
+●	Estimated both the retailer’s and the manufacturer’s conditional profit with outputs from the aforementioned models (category choice likelihood, brand choice probability and sales) being taken in to calculation.
+●	Estimated their profit in both 100% and 70% pass-through rate’s context.
+●	Draw a memo addressing the findings about the promotion effect, recommendations to the retailer and the manufacturer in terms of what settings may drive the highest profit. 
