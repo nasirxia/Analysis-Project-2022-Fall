@@ -14,7 +14,6 @@
 /* and the commented-out line underneath it is the version for SAS in Windows. */  
 
 libname proj2 '/home/u62241961/BUMK742/Project 2';
-*libname proj2 'C:\0jie\BUMK706\Assignments\Project2';
 
 data temp;    /* You can give any name for the temporary data file */
 set proj2.printads;
